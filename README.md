@@ -1,7 +1,7 @@
-heroku-buildpack-imagemagick-heif
+heroku18-buildpack-imagemagick
 =================================
 
-This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) for vendoring the ImageMagick  with HEIF support binaries into your project.
+This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) for vendoring the ImageMagick with support binaries into your project.
 
 This one works with [Heroku stack](https://devcenter.heroku.com/articles/stack) `heroku-18`.
 
@@ -10,7 +10,7 @@ This one works with [Heroku stack](https://devcenter.heroku.com/articles/stack) 
 Add this buildpack to your app:
 
 ```
-https://github.com/epicatization/heroku-buildpack-imagemagick-heif
+https://github.com/BradLeeCB/heroku-buildpack-imagemagick
 ```
 
 ## Build script
